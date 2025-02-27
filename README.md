@@ -5,16 +5,6 @@ Este proyecto desarrolla un modelo de **predicción de producción de pozos** ut
 
 ---
 
-## 📂 Contenido del Repositorio
-
-- 📜 `data/` → Conjunto de datos de entrenamiento y prueba
-- 📜 `notebooks/` → Análisis exploratorio y desarrollo del modelo
-- 📜 `src/` → Código fuente del modelo y funciones auxiliares
-- 📜 `models/` → Modelos entrenados
-- 📜 `README.md` → Este archivo
-
----
-
 ## 📊 Datos Utilizados
 
 <details>
